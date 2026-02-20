@@ -6,7 +6,7 @@ This project is a fully responsive homepage developed as part of the Microsoft I
 The objective was to convert the provided Figma design into a responsive and clean frontend implementation while maintaining design accuracy and proper code structure.
 
 ## 🚀 Live Website
-https://gilded-peony-6a93dd.netlify.app/
+https://alakhhawk47.github.io/miml-webdev-task/
 
 ## 💻 GitHub Repository
 https://github.com/alakhhawk47/miml-webdev-task
@@ -16,6 +16,9 @@ https://github.com/alakhhawk47/miml-webdev-task
 - CSS3
 - JavaScript
 - VS Code
+
+## 📷 Screenshot
+![Screenshot](Screenshot_20260220_131232.jpg)
 
 ## ✨ Features Implemented
 - Fully responsive homepage (mobile, tablet, desktop)
